@@ -1,4 +1,4 @@
-Projeto 08 (Trilha Simplificada) - Página de Receita Semântica
+Projeto - Página de Receita Semântica
 Este projeto demonstra a criação de uma página simples e semântica focada em exibir uma receita culinária.
 
 🚀 Sobre o Projeto
