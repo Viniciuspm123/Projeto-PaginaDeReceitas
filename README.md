@@ -5,7 +5,7 @@ Este projeto demonstra a criação de uma página simples e semântica focada em
 O projeto consiste em uma página de receita para um Bolo de Cenoura, estruturada com um cabeçalho, uma seção centralizada contendo a lista de ingredientes e o modo de preparo, e um rodapé. O foco principal é a correta aplicação das listas HTML e a centralização do conteúdo para garantir clareza e legibilidade.
 
 🛠️ Tecnologias e Conceitos Abordados
-HTML5 Semântico: Uso correto das tags <header>, <section>, <ul>, <ol>, e <footer> para organizar o conteúdo de forma lógica.
+HTML5 Semântico: Uso correto das tags header, section, ul, ol, e footer, para organizar o conteúdo de forma lógica.
 
 Estrutura de Listas: Utilização de lista não ordenada (<ul>) para listar os Ingredientes e lista ordenada (<ol>) para listar o Modo de Preparo em sequência.
 
