@@ -7,7 +7,7 @@ O projeto consiste em uma página de receita para um Bolo de Cenoura, estruturad
 🛠️ Tecnologias e Conceitos Abordados
 HTML5 Semântico: Uso correto das tags header, section, ul, ol, e footer, para organizar o conteúdo de forma lógica.
 
-Estrutura de Listas: Utilização de lista não ordenada (<ul>) para listar os Ingredientes e lista ordenada (<ol>) para listar o Modo de Preparo em sequência.
+Estrutura de Listas: Utilização de lista não ordenada (ul) para listar os Ingredientes e lista ordenada (ol) para listar o Modo de Preparo em sequência.
 
 CSS Básico e Layout: Estilização de cores de fundo e texto, padding, e margens.
 
